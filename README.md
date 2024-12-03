@@ -6,7 +6,7 @@ I am a Senior Software Engineer - Team Lead @ Replicon.
 
 - 🔭 I’m currently building serverless, event-driven systems with **Terraform**, **TypeScript**, **AWS Lambda, SQS, SNS, DynamoDB, and S3**. I also have experience building **Node.js/Express.js/GraphQL** APIs, **React** frontends, and deploying infrastructure with **Terraform**.
 
-- 🌱 I’m currently learning the Remix React framework. After that, I would like to do a Docker deep-dive.
+- 🌱 I’m currently learning the Remix React framework. After that, I would like to do a Docker deep-dive or learn Next.JS.
 
 - ⚡ Fun fact: My last name has two i's and two l's. It is confusing! :)
 
