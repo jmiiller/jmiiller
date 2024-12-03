@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jeff, welcome to my profile!
+## Hi there 👋, I'm Jeff, welcome to my profile!
 
 I am a Senior Software Engineer - Team Lead @ Replicon
 
