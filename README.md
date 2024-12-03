@@ -2,7 +2,7 @@
 
 I'm Jeff, welcome to my profile!
 
-I am a Senior Software Engineer - Team Lead @ Deltek (originally Replicon, which was acquired) :)
+I am a Senior Software Engineer - Team Lead @ Replicon
 
 ---
 
@@ -13,4 +13,5 @@ I am a Senior Software Engineer - Team Lead @ Deltek (originally Replicon, which
 - ⚡ Fun fact: My last name has two i's and two l's. It is confusing! :)
 
 ---
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jeff-miiller/) or [email](mailto:jeffrey.miiller@gmail.com)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jeff-miiller/) or [email](mailto:jeffrey.miiller@gmail.com)!
