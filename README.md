@@ -4,7 +4,7 @@ I am a Team Lead @ Paceline.
 
 ---
 
-- 🔭 I’m currently building serverless, event-driven systems with **Terraform**, **TypeScript**, **AWS Lambda, SQS, SNS, DynamoDB, and S3**. I also have experience building **Node.js/Express.js/GraphQL** APIs, **React** frontends, and deploying infrastructure with **Terraform**.
+- 🔭 I’m currently building serverless, event-driven systems with **Terraform**, **TypeScript**, **AWS Lambda, API Gateway, Eventbridge, SQS, SNS, DynamoDB, and S3**. I also have experience building **Node.js/Express.js/GraphQL** APIs, **React** frontends, and deploying infrastructure with **Terraform**.
 
 - 🌱 I’m currently learning Turborepo, pnpm, Monorepos (generally), and Github Actions.
 
