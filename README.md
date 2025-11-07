@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jeff! Welcome to my profile!
 
-I am a Team Lead @ Paceline.
+I am a Backend Software Engineer @ Paceline.
 
 ---
 
